@@ -9,6 +9,7 @@ request.get(config.apiUrl, (error, response, body) => {
     if (online == "1") {
         const players = server.players;
         const maxplayers = server.maxplayers;
+        console.log(`Successfully updated the status of your Teamspeak!`)
         return client.user.setActivity(`${players}/${maxplayers} on Teamspeak!`);
     } else {
         return client.user.setActivity(`Teamspeak is OFFLINE!`)
