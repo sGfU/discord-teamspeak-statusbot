@@ -8,7 +8,7 @@ This guide assumes you know how to install a discord bot through discord.js, if 
 
 1. Gain your API url from teamspeak-servers.org.
 
-  1.1 This is what your URl should look like "https://teamspeak-servers.org/api/?object=servers&element=detail&key=YOURKEYHERE"
+    1.1 This is what your URl should look like "https://teamspeak-servers.org/api/?object=servers&element=detail&key=YOURKEYHERE"
 
 2. Place your new URL in the config.json section for "apiUrl".
 
