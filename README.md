@@ -4,7 +4,7 @@ A VERY simple Discord.JS script that will show the status of your teamspeak serv
 Uses the [Teamspeak Servers](https://teamspeak-servers.org/) api.
 
 # Install Guide
-(This guide assumes you know how to install a discord bot through discord.js, if you do not know how, here is a [video](https://www.youtube.com/watch?v=Z-tc91hArlM) you can watch to learn how)
+This guide assumes you know how to install a discord bot through discord.js, if you do not know how, here is a [video](https://www.youtube.com/watch?v=Z-tc91hArlM) you can watch to learn how
 
 1. Gain your API url from teamspeak-servers.org.
   1.1 This is what your URl should look like "https://teamspeak-servers.org/api/?object=servers&element=detail&key=YOURKEYHERE"
