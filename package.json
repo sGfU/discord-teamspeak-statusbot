@@ -1,0 +1,35 @@
+{
+  "name": "discord-teamspeak-bot",
+  "version": "1.0.0",
+  "description": "Discord teamspeak bot that allows for the status of a teamspeak to be shown in a discord",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sGfU/discord-teamspeak-statusbot.git"
+  },
+  "keywords": [
+    "discord",
+    "teamspeak",
+    "bot",
+    "discord",
+    "status",
+    "teamspeak",
+    "bot",
+    "status",
+    "discord"
+  ],
+  "author": "Spence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sGfU/discord-teamspeak-statusbot/issues"
+  },
+  "homepage": "https://github.com/sGfU/discord-teamspeak-statusbot#readme"
+}
